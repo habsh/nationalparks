@@ -5,7 +5,7 @@ metadata:
 spec:
   params:
    - name: APP_GIT_URL
-     value: "https://github.com/openshift-roadshow/nationalparks.git"
+     value: "https://github.com/habsh/nationalparks.git"
   pipelineRef:
     name: nationalparks-pipeline
   workspaces:
